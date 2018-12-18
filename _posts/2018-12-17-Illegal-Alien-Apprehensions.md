@@ -10,13 +10,13 @@ toc: true
 mathjax: true
 published: true
 ---
-##Illegal Alien Apprehensions Along the Southwest Border (1960-2017)
+## Illegal Alien Apprehensions Along the Southwest Border (1960-2017)
 
-###What area along the Southwest Border has the most illegal alien apprehensions since 1960?
+### What area along the Southwest Border has the most illegal alien apprehensions since 1960?
 
   The dataset that I am using to help reinforce my point was one I found on Data World that has all the arrests made by the border patrol and local authorities in each of the regions for the years 1960-2017, as well as a total for the entire Southwest for those years as well. This data will allow me to see the areas that have more or less arrests throughout the last 57 years in the nine areas the data has been recorder from; Big Bend, Del Rio, El Paso, El Centro, Laredo, Rio Grande Valley, San Diego, Tuscan, Yuma, and the Southwest border totals.
 
-###Tableau and Data Visuakization Methodology 
+### Tableau and Data Visuakization Methodology 
   
   Tableau allowed me to bring much more to the visualization then any other software I could have used like excel, Tableau allows you to convey your thoughts much more precisely as well as accurately. It allows you to show specific things that you want to, rather then making the audience work for the information, it’s right there as clear as day. Being able to show color differences allowing you to bring your readers attention there without having to make them work to get there. Limiting the cognitive load that the audience has when they are looking at your visualizations the more room in their mind to think about the question in which your asking and answering here in the data you are presenting.
 
@@ -26,7 +26,7 @@ published: true
 	
   Now comes the text table that displays the data from which we have been constructing all the graphs from in a clear and proper text table that is easy to read and quick to understand. Using the nine different locations as well as the southwest border totals to compare their yearly numbers.
 
-###Conclusion 
+### Conclusion 
 	
   After looking at all the information, as well as reviewing my clearly made visuals and following my well-constructed story it has left me with two different places that seem to stand out among the rest. Those two places are San Diego (1986) and Tucson (2000). These two places although have similar numbers themselves they certainly do separate from the rest. San Diego in the year 1986 had 629,656 and Tucson in 2000 had 616,646 illegal alien apprehensions, while no other location had ever been above the 315,000. This was why I chose this number for my parameter, allowing the audience to see that there is twice as many people being apprehended in these locations at these times compared to the rest of the locations.
 
