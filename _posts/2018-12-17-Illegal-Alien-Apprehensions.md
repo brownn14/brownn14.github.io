@@ -30,8 +30,7 @@ published: true
 	
   After looking at all the information, as well as reviewing my clearly made visuals and following my well-constructed story it has left me with two different places that seem to stand out among the rest. Those two places are San Diego (1986) and Tucson (2000). These two places although have similar numbers themselves they certainly do separate from the rest. San Diego in the year 1986 had 629,656 and Tucson in 2000 had 616,646 illegal alien apprehensions, while no other location had ever been above the 315,000. This was why I chose this number for my parameter, allowing the audience to see that there is twice as many people being apprehended in these locations at these times compared to the rest of the locations.
 
-
-
+### Tableau Created Visualizations 
  
 <iframe src = "https://public.tableau.com/views/IllegalAlienAprehensionsalongtheSouthwestBorder/TextTable?:embed=y&:display_count=yes&publish=yes" width="140%" height="800"></iframe>
   
